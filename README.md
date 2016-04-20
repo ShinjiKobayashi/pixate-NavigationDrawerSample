@@ -1,3 +1,3 @@
 ## Demo
 
-![demo.gif](./image/demo2.gif)
+<img src="./image/demo2.gif" width=400px>
